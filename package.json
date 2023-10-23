@@ -1,0 +1,31 @@
+{
+  "name": "search-algorithms",
+  "version": "1.0.0",
+  "description": "Program to collect data on search algorithm runtimes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViennaBorowska/search-algorithms.git"
+  },
+  "keywords": [
+    "search",
+    "algorithm",
+    "binary",
+    "linear",
+    "analysis",
+    "runtime"
+  ],
+  "author": "Vienna Borowska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ViennaBorowska/search-algorithms/issues"
+  },
+  "homepage": "https://github.com/ViennaBorowska/search-algorithms#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
