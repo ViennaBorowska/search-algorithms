@@ -63,7 +63,7 @@ function binarySearch(array, target) {
 
 //Driver Code
 const runs = 10;
-for (let n = 500; n <= 550000; n = n + 500) {
+for (let n = 500; n <= 600000; n = n + 500) {
   //Variables to calculate search runtime data
   let linearTotal = 0;
   let linearAverage = 0;
